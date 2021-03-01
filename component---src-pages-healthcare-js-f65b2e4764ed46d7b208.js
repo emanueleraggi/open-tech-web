@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{IYRn:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=t("7oih"),r=t("1oc3"),u=(t("Wbzz"),t("i1GD"),t("EYWl"));a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.a,{title:"Healthcare"}),l.a.createElement(r.a,null),l.a.createElement("h2",null,"healthcare page"))}}}]);
+//# sourceMappingURL=component---src-pages-healthcare-js-f65b2e4764ed46d7b208.js.map

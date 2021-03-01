@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{Vgru:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("7oih"),o=t("1oc3"),r=(t("Wbzz"),t("i1GD"),t("EYWl"));n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Technology"}),l.a.createElement(o.a,null),l.a.createElement("h2",null,"technology page"))}}}]);
+//# sourceMappingURL=component---src-pages-technology-js-0537c285731676423b75.js.map

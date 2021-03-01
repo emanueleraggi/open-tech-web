@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{s4KT:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("7oih"),o=n("1oc3"),i=(n("Wbzz"),n("i1GD"),n("EYWl"));t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(i.a,{title:"Robotics"}),l.a.createElement(o.a,null),l.a.createElement("h2",null,"robotics page"))}}}]);
+//# sourceMappingURL=component---src-pages-robotics-js-81075c425ebab8098b66.js.map
